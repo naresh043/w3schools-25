@@ -1,0 +1,574 @@
+.headding{
+    color: red;
+    text-shadow: 10px seashell ;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+
+body{
+    background-color: black;
+}
+.mainBlock{
+    display: inline-block;
+}
+.php{
+    background-color: palevioletred;
+    color: white;
+    height: 200px;
+    width: 350px;
+    display: inline-block;
+    margin-left: 70px;
+    border:solid white 6px;
+    border-radius: 6px;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    color: black;
+    text-align: center;
+}
+.button{
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    padding: 8px 8px;
+    border:solid rgb(139, 184, 103) 6px;
+    border-radius: 6px;
+}
+.jQuery{
+    background-color: khaki;
+    color: white;
+    height: 200px;
+    width: 350px;
+    display: inline-block;   
+    margin-left: 400px;
+    border:solid rgb(139, 184, 103) 6px;
+    border-radius: 6px;
+    
+
+}
+.java{
+    background-color: rgb(112, 216, 193);
+    color: white;
+    height: 200px;
+    width: 350px;
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 50px;
+    border:solid rgb(139, 184, 103) 6px;
+    border-radius: 6px;
+}
+.C{
+    background-color: red;
+    color: white;
+    height: 200px;
+    width: 350px;
+    display: inline-block;
+    margin-left: 400px;
+    /* margin-top: px; */
+    border:solid rgb(139, 184, 103) 6px;
+    border-radius: 6px;
+
+}
+.Css{
+    background-color: rgb(97, 207, 24);
+    color: white;
+    height: 200px;
+    width: 350px;
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 40px;
+    border:solid rgb(139, 184, 103) 6px;
+    border-radius: 6px;
+}
+.Boot{
+    background-color: rgb(12, 106, 182);
+    color: white;
+    height: 200px;
+    width: 350px;
+    display: inline-block;
+    margin-left: 400px;
+    /* margin-top: 100px; */
+    border:solid rgb(139, 184, 103) 6px;
+    border-radius: 6px;
+
+}
+
+
+.cLang{
+    color: black;
+    background-color: lightpink;
+    display: inline-block;
+    height: 100px;
+    width: 500px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border:solid rgb(139, 184, 103) 6px;
+    border-radius: 6px;
+}
+.cshor{
+    color: black;
+    background-color: rgb(110, 64, 71);
+    display: inline-block;
+    height: 100px;
+    width: 500px;
+    margin-top: 40px;
+    margin-left: 160px;
+    border:solid rgb(139, 184, 103) 6px;
+    border-radius: 6px;
+
+}
+.R{
+    color: black;
+    background-color: rgb(158, 11, 216);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+}
+.kotlin{
+    color: black;
+    background-color: rgb(116, 20, 34);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+   
+}
+.Nodejs{
+    color: black;
+    background-color: rgb(20, 179, 241);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 160px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+}
+.React{
+    color: black;
+    background-color: rgb(185, 170, 36);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+}
+.JSON{
+    color: black;
+    background-color: rgb(126, 123, 101);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+}
+.VUE{
+    color: black;
+    background-color: rgb(178, 157, 187);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border:solid white 3px;
+    border-radius: 3px;
+}
+.MySQL{
+    color: black;
+    background-color: rgba(167, 182, 209, 0.205);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 160px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+   
+}
+.XML{
+    color: black;
+    background-color: rgb(218, 110, 22);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 100px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+}
+
+
+.Sass{
+    color: black;
+    background-color: rgb(11, 171, 199);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+}
+.Icon{
+    color: black;
+    background-color: rgb(23, 209, 6);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border:solid white 3px;
+    border-radius: 3px;
+}
+.Rwd{
+    color: black;
+    background-color: rgba(16, 64, 153, 0.205);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 160px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+   
+}
+.Graphics{
+    color: black;
+    background-color: rgb(218, 104, 12);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+}
+.svg{
+    color: black;
+    background-color: rgb(158, 11, 216);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+}
+.canvas{
+    color: black;
+    background-color: rgb(116, 20, 34);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+   
+}
+.pi{
+    color: black;
+    background-color: rgb(20, 179, 241);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 160px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+}
+.cyber{
+    color: black;
+    background-color: rgb(185, 170, 36);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+}
+.colors{
+    color: black;
+    background-color: rgb(213, 196, 219);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+}
+.git{
+    color: black;
+    background-color: rgb(212, 131, 143);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+   
+}
+.mat{
+    color: black;
+    background-color: rgb(153, 195, 211);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 160px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+}
+.numpy{
+    color: black;
+    background-color: rgb(189, 81, 18);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+}
+.pandas{
+    color: black;
+    background-color: rgb(205, 240, 7);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+}
+.scipy{
+    color: black;
+    background-color: rgb(116, 94, 20);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+   
+}
+.asp{
+    color: black;
+    background-color: rgb(135, 170, 184);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 160px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+}
+.angular{
+    color: black;
+    background-color: rgb(228, 227, 223);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border:solid white 3px;
+    border-radius: 3px;
+    
+
+}
+
+.app{
+    color: black;
+    background-color: rgb(216, 134, 11);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border:solid white 3px;
+    border-radius: 3px;
+    
+
+}
+.go{
+    color: black;
+    background-color: rgb(238, 9, 43);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+   
+}
+.type{
+    color: black;
+    background-color: rgb(3, 180, 98);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 160px;
+    border:solid white 3px;
+    border-radius: 3px;
+}
+.dj{
+    color: black;
+    background-color: rgb(236, 143, 4);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border:solid white 3px;
+    border-radius: 3px;
+}
+
+
+.mongo{
+    color: black;
+    background-color: rgb(108, 69, 124);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+}
+.statistics{
+    color: black;
+    background-color: rgb(9, 54, 138);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border:solid white 3px;
+    border-radius: 3px;
+   
+}
+.data{
+    color: black;
+    background-color: rgb(101, 216, 7);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 160px;
+    border:solid white 3px;
+    border-radius: 3px;
+
+}
+.typespeed{
+    color: black;
+    background-color: rgb(243, 220, 16);
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border:solid white 3px;
+    border-radius: 3px;
+}
+
+
+.excel{
+    color: black;
+    background-color: rgb(238, 14, 47);
+    display: inline-block;
+    height: 100px;
+    width: 500px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border:solid white 6px;
+    border-radius: 6px;
+}
+.dsa{
+    color: black;
+    background-color: rgb(206, 209, 14);
+    display: inline-block;
+    height: 100px;
+    width: 500px;
+    margin-top: 40px;
+    margin-left: 160px;
+    border:solid white 6px;
+    border-radius: 6px;
+}
+
+
+
+.machine{
+    color: black;
+    background-color: rgb(12, 162, 221);
+    display: inline-block;
+    height: 100px;
+    width: 500px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border:solid white 6px;
+    border-radius: 6px;
+}
+.ai{
+    color: black;
+    background-color: rgb(7, 231, 18);
+    display: inline-block;
+    height: 100px;
+    width: 500px;
+    margin-top: 40px;
+    margin-left: 160px;
+    border:solid white 6px;
+    border-radius: 6px;
+}
+
+
+
+
+
+
